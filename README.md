@@ -20,6 +20,6 @@ console.log(typoText);
 
 ## Urban Legend
 
-I first learned about this phenomena from an internet post. I assumed it wasn't true, and after some research, I was able to confirm it was false. I made this program as a simple experiment to see how often the text is actually able to be read by someone who did not know the original message.
+I first learned about this phenomena from an internet post. I assumed it wasn't true, and after some research, I was able to confirm that. I made this program as a simple experiment to see how often the text is actually able to be read by someone who did not know the original message.
 
 I plan on adding strategies to still scramble the letters, but in a way where the words can still be read.
