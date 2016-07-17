@@ -10,7 +10,7 @@ https://github.com/umdjs/umd/blob/master/templates/returnExports.js
         module.exports = factory();
     } else {
         // Browser globals (root is window)
-        root.returnExports = factory();
+        root.typo = factory();
   }
 }(this, function () {
 
@@ -39,5 +39,5 @@ https://github.com/umdjs/umd/blob/master/templates/returnExports.js
 
     var punctuation = /["(){}[\]<>/\\|`'*!@#$%^&\-_=+:;,.? ]/;
     
-    return {typo:typo};
+    return typo;
 }));
